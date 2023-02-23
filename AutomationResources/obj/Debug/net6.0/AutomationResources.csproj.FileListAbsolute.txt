@@ -1,0 +1,30 @@
+D:\QA\VisualStudioProjcets\c# selenium kurs\ClassLibrary\POM vezba\TestProject\AutomationResources\bin\Debug\net6.0\selenium-manager\linux\selenium-manager
+D:\QA\VisualStudioProjcets\c# selenium kurs\ClassLibrary\POM vezba\TestProject\AutomationResources\bin\Debug\net6.0\selenium-manager\macos\selenium-manager
+D:\QA\VisualStudioProjcets\c# selenium kurs\ClassLibrary\POM vezba\TestProject\AutomationResources\bin\Debug\net6.0\selenium-manager\windows\selenium-manager.exe
+D:\QA\VisualStudioProjcets\c# selenium kurs\ClassLibrary\POM vezba\TestProject\AutomationResources\bin\Debug\net6.0\AutomationResources.deps.json
+D:\QA\VisualStudioProjcets\c# selenium kurs\ClassLibrary\POM vezba\TestProject\AutomationResources\bin\Debug\net6.0\AutomationResources.dll
+D:\QA\VisualStudioProjcets\c# selenium kurs\ClassLibrary\POM vezba\TestProject\AutomationResources\bin\Debug\net6.0\AutomationResources.pdb
+D:\QA\VisualStudioProjcets\c# selenium kurs\ClassLibrary\POM vezba\TestProject\AutomationResources\obj\Debug\net6.0\AutomationResources.csproj.AssemblyReference.cache
+D:\QA\VisualStudioProjcets\c# selenium kurs\ClassLibrary\POM vezba\TestProject\AutomationResources\obj\Debug\net6.0\AutomationResources.GeneratedMSBuildEditorConfig.editorconfig
+D:\QA\VisualStudioProjcets\c# selenium kurs\ClassLibrary\POM vezba\TestProject\AutomationResources\obj\Debug\net6.0\AutomationResources.AssemblyInfoInputs.cache
+D:\QA\VisualStudioProjcets\c# selenium kurs\ClassLibrary\POM vezba\TestProject\AutomationResources\obj\Debug\net6.0\AutomationResources.AssemblyInfo.cs
+D:\QA\VisualStudioProjcets\c# selenium kurs\ClassLibrary\POM vezba\TestProject\AutomationResources\obj\Debug\net6.0\AutomationResources.csproj.CoreCompileInputs.cache
+D:\QA\VisualStudioProjcets\c# selenium kurs\ClassLibrary\POM vezba\TestProject\AutomationResources\obj\Debug\net6.0\AutomationResources.dll
+D:\QA\VisualStudioProjcets\c# selenium kurs\ClassLibrary\POM vezba\TestProject\AutomationResources\obj\Debug\net6.0\refint\AutomationResources.dll
+D:\QA\VisualStudioProjcets\c# selenium kurs\ClassLibrary\POM vezba\TestProject\AutomationResources\obj\Debug\net6.0\AutomationResources.pdb
+D:\QA\VisualStudioProjcets\c# selenium kurs\ClassLibrary\POM vezba\TestProject\AutomationResources\obj\Debug\net6.0\ref\AutomationResources.dll
+D:\QA\reposOnGitHub\C#SeleniumTests\TestProject\AutomationResources\bin\Debug\net6.0\selenium-manager\linux\selenium-manager
+D:\QA\reposOnGitHub\C#SeleniumTests\TestProject\AutomationResources\bin\Debug\net6.0\selenium-manager\macos\selenium-manager
+D:\QA\reposOnGitHub\C#SeleniumTests\TestProject\AutomationResources\bin\Debug\net6.0\selenium-manager\windows\selenium-manager.exe
+D:\QA\reposOnGitHub\C#SeleniumTests\TestProject\AutomationResources\bin\Debug\net6.0\AutomationResources.deps.json
+D:\QA\reposOnGitHub\C#SeleniumTests\TestProject\AutomationResources\bin\Debug\net6.0\AutomationResources.dll
+D:\QA\reposOnGitHub\C#SeleniumTests\TestProject\AutomationResources\bin\Debug\net6.0\AutomationResources.pdb
+D:\QA\reposOnGitHub\C#SeleniumTests\TestProject\AutomationResources\obj\Debug\net6.0\AutomationResources.csproj.AssemblyReference.cache
+D:\QA\reposOnGitHub\C#SeleniumTests\TestProject\AutomationResources\obj\Debug\net6.0\AutomationResources.GeneratedMSBuildEditorConfig.editorconfig
+D:\QA\reposOnGitHub\C#SeleniumTests\TestProject\AutomationResources\obj\Debug\net6.0\AutomationResources.AssemblyInfoInputs.cache
+D:\QA\reposOnGitHub\C#SeleniumTests\TestProject\AutomationResources\obj\Debug\net6.0\AutomationResources.AssemblyInfo.cs
+D:\QA\reposOnGitHub\C#SeleniumTests\TestProject\AutomationResources\obj\Debug\net6.0\AutomationResources.csproj.CoreCompileInputs.cache
+D:\QA\reposOnGitHub\C#SeleniumTests\TestProject\AutomationResources\obj\Debug\net6.0\AutomationResources.dll
+D:\QA\reposOnGitHub\C#SeleniumTests\TestProject\AutomationResources\obj\Debug\net6.0\refint\AutomationResources.dll
+D:\QA\reposOnGitHub\C#SeleniumTests\TestProject\AutomationResources\obj\Debug\net6.0\AutomationResources.pdb
+D:\QA\reposOnGitHub\C#SeleniumTests\TestProject\AutomationResources\obj\Debug\net6.0\ref\AutomationResources.dll

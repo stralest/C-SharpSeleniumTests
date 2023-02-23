@@ -1,0 +1,321 @@
+D:\QA\Visual studio projects\c# selenium kurs\ClassLibrary\POM vezba\TestProject\TestProject\bin\Debug\net6.0\testhost.dll
+D:\QA\Visual studio projects\c# selenium kurs\ClassLibrary\POM vezba\TestProject\TestProject\bin\Debug\net6.0\testhost.exe
+D:\QA\Visual studio projects\c# selenium kurs\ClassLibrary\POM vezba\TestProject\TestProject\bin\Debug\net6.0\selenium-manager\linux\selenium-manager
+D:\QA\Visual studio projects\c# selenium kurs\ClassLibrary\POM vezba\TestProject\TestProject\bin\Debug\net6.0\selenium-manager\macos\selenium-manager
+D:\QA\Visual studio projects\c# selenium kurs\ClassLibrary\POM vezba\TestProject\TestProject\bin\Debug\net6.0\selenium-manager\windows\selenium-manager.exe
+D:\QA\Visual studio projects\c# selenium kurs\ClassLibrary\POM vezba\TestProject\TestProject\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\QA\Visual studio projects\c# selenium kurs\ClassLibrary\POM vezba\TestProject\TestProject\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\QA\Visual studio projects\c# selenium kurs\ClassLibrary\POM vezba\TestProject\TestProject\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\QA\Visual studio projects\c# selenium kurs\ClassLibrary\POM vezba\TestProject\TestProject\bin\Debug\net6.0\Microsoft.TestPlatform.AdapterUtilities.dll
+D:\QA\Visual studio projects\c# selenium kurs\ClassLibrary\POM vezba\TestProject\TestProject\bin\Debug\net6.0\TestProject.deps.json
+D:\QA\Visual studio projects\c# selenium kurs\ClassLibrary\POM vezba\TestProject\TestProject\bin\Debug\net6.0\TestProject.runtimeconfig.json
+D:\QA\Visual studio projects\c# selenium kurs\ClassLibrary\POM vezba\TestProject\TestProject\bin\Debug\net6.0\TestProject.dll
+D:\QA\Visual studio projects\c# selenium kurs\ClassLibrary\POM vezba\TestProject\TestProject\bin\Debug\net6.0\TestProject.pdb
+D:\QA\Visual studio projects\c# selenium kurs\ClassLibrary\POM vezba\TestProject\TestProject\bin\Debug\net6.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+D:\QA\Visual studio projects\c# selenium kurs\ClassLibrary\POM vezba\TestProject\TestProject\bin\Debug\net6.0\Microsoft.TestPlatform.CoreUtilities.dll
+D:\QA\Visual studio projects\c# selenium kurs\ClassLibrary\POM vezba\TestProject\TestProject\bin\Debug\net6.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+D:\QA\Visual studio projects\c# selenium kurs\ClassLibrary\POM vezba\TestProject\TestProject\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+D:\QA\Visual studio projects\c# selenium kurs\ClassLibrary\POM vezba\TestProject\TestProject\bin\Debug\net6.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+D:\QA\Visual studio projects\c# selenium kurs\ClassLibrary\POM vezba\TestProject\TestProject\bin\Debug\net6.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+D:\QA\Visual studio projects\c# selenium kurs\ClassLibrary\POM vezba\TestProject\TestProject\bin\Debug\net6.0\Microsoft.TestPlatform.Utilities.dll
+D:\QA\Visual studio projects\c# selenium kurs\ClassLibrary\POM vezba\TestProject\TestProject\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+D:\QA\Visual studio projects\c# selenium kurs\ClassLibrary\POM vezba\TestProject\TestProject\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\QA\Visual studio projects\c# selenium kurs\ClassLibrary\POM vezba\TestProject\TestProject\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\QA\Visual studio projects\c# selenium kurs\ClassLibrary\POM vezba\TestProject\TestProject\bin\Debug\net6.0\NuGet.Frameworks.dll
+D:\QA\Visual studio projects\c# selenium kurs\ClassLibrary\POM vezba\TestProject\TestProject\bin\Debug\net6.0\WebDriver.Support.dll
+D:\QA\Visual studio projects\c# selenium kurs\ClassLibrary\POM vezba\TestProject\TestProject\bin\Debug\net6.0\WebDriver.dll
+D:\QA\Visual studio projects\c# selenium kurs\ClassLibrary\POM vezba\TestProject\TestProject\bin\Debug\net6.0\SeleniumExtras.WaitHelpers.dll
+D:\QA\Visual studio projects\c# selenium kurs\ClassLibrary\POM vezba\TestProject\TestProject\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\QA\Visual studio projects\c# selenium kurs\ClassLibrary\POM vezba\TestProject\TestProject\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\QA\Visual studio projects\c# selenium kurs\ClassLibrary\POM vezba\TestProject\TestProject\bin\Debug\net6.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\QA\Visual studio projects\c# selenium kurs\ClassLibrary\POM vezba\TestProject\TestProject\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\QA\Visual studio projects\c# selenium kurs\ClassLibrary\POM vezba\TestProject\TestProject\bin\Debug\net6.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\QA\Visual studio projects\c# selenium kurs\ClassLibrary\POM vezba\TestProject\TestProject\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\QA\Visual studio projects\c# selenium kurs\ClassLibrary\POM vezba\TestProject\TestProject\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\QA\Visual studio projects\c# selenium kurs\ClassLibrary\POM vezba\TestProject\TestProject\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\QA\Visual studio projects\c# selenium kurs\ClassLibrary\POM vezba\TestProject\TestProject\bin\Debug\net6.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\QA\Visual studio projects\c# selenium kurs\ClassLibrary\POM vezba\TestProject\TestProject\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\QA\Visual studio projects\c# selenium kurs\ClassLibrary\POM vezba\TestProject\TestProject\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\QA\Visual studio projects\c# selenium kurs\ClassLibrary\POM vezba\TestProject\TestProject\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\QA\Visual studio projects\c# selenium kurs\ClassLibrary\POM vezba\TestProject\TestProject\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\QA\Visual studio projects\c# selenium kurs\ClassLibrary\POM vezba\TestProject\TestProject\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\QA\Visual studio projects\c# selenium kurs\ClassLibrary\POM vezba\TestProject\TestProject\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\QA\Visual studio projects\c# selenium kurs\ClassLibrary\POM vezba\TestProject\TestProject\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\QA\Visual studio projects\c# selenium kurs\ClassLibrary\POM vezba\TestProject\TestProject\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\QA\Visual studio projects\c# selenium kurs\ClassLibrary\POM vezba\TestProject\TestProject\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\QA\Visual studio projects\c# selenium kurs\ClassLibrary\POM vezba\TestProject\TestProject\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\QA\Visual studio projects\c# selenium kurs\ClassLibrary\POM vezba\TestProject\TestProject\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\QA\Visual studio projects\c# selenium kurs\ClassLibrary\POM vezba\TestProject\TestProject\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\QA\Visual studio projects\c# selenium kurs\ClassLibrary\POM vezba\TestProject\TestProject\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\QA\Visual studio projects\c# selenium kurs\ClassLibrary\POM vezba\TestProject\TestProject\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\QA\Visual studio projects\c# selenium kurs\ClassLibrary\POM vezba\TestProject\TestProject\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\QA\Visual studio projects\c# selenium kurs\ClassLibrary\POM vezba\TestProject\TestProject\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\QA\Visual studio projects\c# selenium kurs\ClassLibrary\POM vezba\TestProject\TestProject\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\QA\Visual studio projects\c# selenium kurs\ClassLibrary\POM vezba\TestProject\TestProject\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\QA\Visual studio projects\c# selenium kurs\ClassLibrary\POM vezba\TestProject\TestProject\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\QA\Visual studio projects\c# selenium kurs\ClassLibrary\POM vezba\TestProject\TestProject\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\QA\Visual studio projects\c# selenium kurs\ClassLibrary\POM vezba\TestProject\TestProject\bin\Debug\net6.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\QA\Visual studio projects\c# selenium kurs\ClassLibrary\POM vezba\TestProject\TestProject\bin\Debug\net6.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\QA\Visual studio projects\c# selenium kurs\ClassLibrary\POM vezba\TestProject\TestProject\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\QA\Visual studio projects\c# selenium kurs\ClassLibrary\POM vezba\TestProject\TestProject\bin\Debug\net6.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\QA\Visual studio projects\c# selenium kurs\ClassLibrary\POM vezba\TestProject\TestProject\bin\Debug\net6.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\QA\Visual studio projects\c# selenium kurs\ClassLibrary\POM vezba\TestProject\TestProject\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\QA\Visual studio projects\c# selenium kurs\ClassLibrary\POM vezba\TestProject\TestProject\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\QA\Visual studio projects\c# selenium kurs\ClassLibrary\POM vezba\TestProject\TestProject\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\QA\Visual studio projects\c# selenium kurs\ClassLibrary\POM vezba\TestProject\TestProject\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\QA\Visual studio projects\c# selenium kurs\ClassLibrary\POM vezba\TestProject\TestProject\bin\Debug\net6.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\QA\Visual studio projects\c# selenium kurs\ClassLibrary\POM vezba\TestProject\TestProject\bin\Debug\net6.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\QA\Visual studio projects\c# selenium kurs\ClassLibrary\POM vezba\TestProject\TestProject\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\QA\Visual studio projects\c# selenium kurs\ClassLibrary\POM vezba\TestProject\TestProject\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\QA\Visual studio projects\c# selenium kurs\ClassLibrary\POM vezba\TestProject\TestProject\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\QA\Visual studio projects\c# selenium kurs\ClassLibrary\POM vezba\TestProject\TestProject\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\QA\Visual studio projects\c# selenium kurs\ClassLibrary\POM vezba\TestProject\TestProject\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\QA\Visual studio projects\c# selenium kurs\ClassLibrary\POM vezba\TestProject\TestProject\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\QA\Visual studio projects\c# selenium kurs\ClassLibrary\POM vezba\TestProject\TestProject\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\QA\Visual studio projects\c# selenium kurs\ClassLibrary\POM vezba\TestProject\TestProject\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\QA\Visual studio projects\c# selenium kurs\ClassLibrary\POM vezba\TestProject\TestProject\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\QA\Visual studio projects\c# selenium kurs\ClassLibrary\POM vezba\TestProject\TestProject\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\QA\Visual studio projects\c# selenium kurs\ClassLibrary\POM vezba\TestProject\TestProject\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\QA\Visual studio projects\c# selenium kurs\ClassLibrary\POM vezba\TestProject\TestProject\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\QA\Visual studio projects\c# selenium kurs\ClassLibrary\POM vezba\TestProject\TestProject\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\QA\Visual studio projects\c# selenium kurs\ClassLibrary\POM vezba\TestProject\TestProject\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\QA\Visual studio projects\c# selenium kurs\ClassLibrary\POM vezba\TestProject\TestProject\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\QA\Visual studio projects\c# selenium kurs\ClassLibrary\POM vezba\TestProject\TestProject\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\QA\Visual studio projects\c# selenium kurs\ClassLibrary\POM vezba\TestProject\TestProject\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\QA\Visual studio projects\c# selenium kurs\ClassLibrary\POM vezba\TestProject\TestProject\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\QA\Visual studio projects\c# selenium kurs\ClassLibrary\POM vezba\TestProject\TestProject\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\QA\Visual studio projects\c# selenium kurs\ClassLibrary\POM vezba\TestProject\TestProject\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\QA\Visual studio projects\c# selenium kurs\ClassLibrary\POM vezba\TestProject\TestProject\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\QA\Visual studio projects\c# selenium kurs\ClassLibrary\POM vezba\TestProject\TestProject\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\QA\Visual studio projects\c# selenium kurs\ClassLibrary\POM vezba\TestProject\TestProject\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\QA\Visual studio projects\c# selenium kurs\ClassLibrary\POM vezba\TestProject\TestProject\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\QA\Visual studio projects\c# selenium kurs\ClassLibrary\POM vezba\TestProject\TestProject\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\QA\Visual studio projects\c# selenium kurs\ClassLibrary\POM vezba\TestProject\TestProject\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\QA\Visual studio projects\c# selenium kurs\ClassLibrary\POM vezba\TestProject\TestProject\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\QA\Visual studio projects\c# selenium kurs\ClassLibrary\POM vezba\TestProject\TestProject\obj\Debug\net6.0\TestProject.csproj.AssemblyReference.cache
+D:\QA\Visual studio projects\c# selenium kurs\ClassLibrary\POM vezba\TestProject\TestProject\obj\Debug\net6.0\TestProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\QA\Visual studio projects\c# selenium kurs\ClassLibrary\POM vezba\TestProject\TestProject\obj\Debug\net6.0\TestProject.AssemblyInfoInputs.cache
+D:\QA\Visual studio projects\c# selenium kurs\ClassLibrary\POM vezba\TestProject\TestProject\obj\Debug\net6.0\TestProject.AssemblyInfo.cs
+D:\QA\Visual studio projects\c# selenium kurs\ClassLibrary\POM vezba\TestProject\TestProject\obj\Debug\net6.0\TestProject.csproj.CoreCompileInputs.cache
+D:\QA\Visual studio projects\c# selenium kurs\ClassLibrary\POM vezba\TestProject\TestProject\obj\Debug\net6.0\TestProject.csproj.CopyComplete
+D:\QA\Visual studio projects\c# selenium kurs\ClassLibrary\POM vezba\TestProject\TestProject\obj\Debug\net6.0\TestProject.dll
+D:\QA\Visual studio projects\c# selenium kurs\ClassLibrary\POM vezba\TestProject\TestProject\obj\Debug\net6.0\refint\TestProject.dll
+D:\QA\Visual studio projects\c# selenium kurs\ClassLibrary\POM vezba\TestProject\TestProject\obj\Debug\net6.0\TestProject.pdb
+D:\QA\Visual studio projects\c# selenium kurs\ClassLibrary\POM vezba\TestProject\TestProject\obj\Debug\net6.0\TestProject.genruntimeconfig.cache
+D:\QA\Visual studio projects\c# selenium kurs\ClassLibrary\POM vezba\TestProject\TestProject\obj\Debug\net6.0\ref\TestProject.dll
+D:\QA\VisualStudioProjcets\c# selenium kurs\ClassLibrary\POM vezba\TestProject\TestProject\bin\Debug\net6.0\testhost.exe
+D:\QA\VisualStudioProjcets\c# selenium kurs\ClassLibrary\POM vezba\TestProject\TestProject\bin\Debug\net6.0\testhost.dll
+D:\QA\VisualStudioProjcets\c# selenium kurs\ClassLibrary\POM vezba\TestProject\TestProject\bin\Debug\net6.0\selenium-manager\linux\selenium-manager
+D:\QA\VisualStudioProjcets\c# selenium kurs\ClassLibrary\POM vezba\TestProject\TestProject\bin\Debug\net6.0\selenium-manager\macos\selenium-manager
+D:\QA\VisualStudioProjcets\c# selenium kurs\ClassLibrary\POM vezba\TestProject\TestProject\bin\Debug\net6.0\selenium-manager\windows\selenium-manager.exe
+D:\QA\VisualStudioProjcets\c# selenium kurs\ClassLibrary\POM vezba\TestProject\TestProject\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\QA\VisualStudioProjcets\c# selenium kurs\ClassLibrary\POM vezba\TestProject\TestProject\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\QA\VisualStudioProjcets\c# selenium kurs\ClassLibrary\POM vezba\TestProject\TestProject\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\QA\VisualStudioProjcets\c# selenium kurs\ClassLibrary\POM vezba\TestProject\TestProject\bin\Debug\net6.0\Microsoft.TestPlatform.AdapterUtilities.dll
+D:\QA\VisualStudioProjcets\c# selenium kurs\ClassLibrary\POM vezba\TestProject\TestProject\bin\Debug\net6.0\TestProject.deps.json
+D:\QA\VisualStudioProjcets\c# selenium kurs\ClassLibrary\POM vezba\TestProject\TestProject\bin\Debug\net6.0\TestProject.runtimeconfig.json
+D:\QA\VisualStudioProjcets\c# selenium kurs\ClassLibrary\POM vezba\TestProject\TestProject\bin\Debug\net6.0\TestProject.dll
+D:\QA\VisualStudioProjcets\c# selenium kurs\ClassLibrary\POM vezba\TestProject\TestProject\bin\Debug\net6.0\TestProject.pdb
+D:\QA\VisualStudioProjcets\c# selenium kurs\ClassLibrary\POM vezba\TestProject\TestProject\bin\Debug\net6.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+D:\QA\VisualStudioProjcets\c# selenium kurs\ClassLibrary\POM vezba\TestProject\TestProject\bin\Debug\net6.0\Microsoft.TestPlatform.CoreUtilities.dll
+D:\QA\VisualStudioProjcets\c# selenium kurs\ClassLibrary\POM vezba\TestProject\TestProject\bin\Debug\net6.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+D:\QA\VisualStudioProjcets\c# selenium kurs\ClassLibrary\POM vezba\TestProject\TestProject\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+D:\QA\VisualStudioProjcets\c# selenium kurs\ClassLibrary\POM vezba\TestProject\TestProject\bin\Debug\net6.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+D:\QA\VisualStudioProjcets\c# selenium kurs\ClassLibrary\POM vezba\TestProject\TestProject\bin\Debug\net6.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+D:\QA\VisualStudioProjcets\c# selenium kurs\ClassLibrary\POM vezba\TestProject\TestProject\bin\Debug\net6.0\Microsoft.TestPlatform.Utilities.dll
+D:\QA\VisualStudioProjcets\c# selenium kurs\ClassLibrary\POM vezba\TestProject\TestProject\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+D:\QA\VisualStudioProjcets\c# selenium kurs\ClassLibrary\POM vezba\TestProject\TestProject\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\QA\VisualStudioProjcets\c# selenium kurs\ClassLibrary\POM vezba\TestProject\TestProject\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\QA\VisualStudioProjcets\c# selenium kurs\ClassLibrary\POM vezba\TestProject\TestProject\bin\Debug\net6.0\NuGet.Frameworks.dll
+D:\QA\VisualStudioProjcets\c# selenium kurs\ClassLibrary\POM vezba\TestProject\TestProject\bin\Debug\net6.0\WebDriver.Support.dll
+D:\QA\VisualStudioProjcets\c# selenium kurs\ClassLibrary\POM vezba\TestProject\TestProject\bin\Debug\net6.0\WebDriver.dll
+D:\QA\VisualStudioProjcets\c# selenium kurs\ClassLibrary\POM vezba\TestProject\TestProject\bin\Debug\net6.0\SeleniumExtras.WaitHelpers.dll
+D:\QA\VisualStudioProjcets\c# selenium kurs\ClassLibrary\POM vezba\TestProject\TestProject\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\QA\VisualStudioProjcets\c# selenium kurs\ClassLibrary\POM vezba\TestProject\TestProject\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\QA\VisualStudioProjcets\c# selenium kurs\ClassLibrary\POM vezba\TestProject\TestProject\bin\Debug\net6.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\QA\VisualStudioProjcets\c# selenium kurs\ClassLibrary\POM vezba\TestProject\TestProject\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\QA\VisualStudioProjcets\c# selenium kurs\ClassLibrary\POM vezba\TestProject\TestProject\bin\Debug\net6.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\QA\VisualStudioProjcets\c# selenium kurs\ClassLibrary\POM vezba\TestProject\TestProject\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\QA\VisualStudioProjcets\c# selenium kurs\ClassLibrary\POM vezba\TestProject\TestProject\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\QA\VisualStudioProjcets\c# selenium kurs\ClassLibrary\POM vezba\TestProject\TestProject\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\QA\VisualStudioProjcets\c# selenium kurs\ClassLibrary\POM vezba\TestProject\TestProject\bin\Debug\net6.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\QA\VisualStudioProjcets\c# selenium kurs\ClassLibrary\POM vezba\TestProject\TestProject\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\QA\VisualStudioProjcets\c# selenium kurs\ClassLibrary\POM vezba\TestProject\TestProject\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\QA\VisualStudioProjcets\c# selenium kurs\ClassLibrary\POM vezba\TestProject\TestProject\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\QA\VisualStudioProjcets\c# selenium kurs\ClassLibrary\POM vezba\TestProject\TestProject\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\QA\VisualStudioProjcets\c# selenium kurs\ClassLibrary\POM vezba\TestProject\TestProject\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\QA\VisualStudioProjcets\c# selenium kurs\ClassLibrary\POM vezba\TestProject\TestProject\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\QA\VisualStudioProjcets\c# selenium kurs\ClassLibrary\POM vezba\TestProject\TestProject\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\QA\VisualStudioProjcets\c# selenium kurs\ClassLibrary\POM vezba\TestProject\TestProject\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\QA\VisualStudioProjcets\c# selenium kurs\ClassLibrary\POM vezba\TestProject\TestProject\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\QA\VisualStudioProjcets\c# selenium kurs\ClassLibrary\POM vezba\TestProject\TestProject\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\QA\VisualStudioProjcets\c# selenium kurs\ClassLibrary\POM vezba\TestProject\TestProject\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\QA\VisualStudioProjcets\c# selenium kurs\ClassLibrary\POM vezba\TestProject\TestProject\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\QA\VisualStudioProjcets\c# selenium kurs\ClassLibrary\POM vezba\TestProject\TestProject\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\QA\VisualStudioProjcets\c# selenium kurs\ClassLibrary\POM vezba\TestProject\TestProject\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\QA\VisualStudioProjcets\c# selenium kurs\ClassLibrary\POM vezba\TestProject\TestProject\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\QA\VisualStudioProjcets\c# selenium kurs\ClassLibrary\POM vezba\TestProject\TestProject\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\QA\VisualStudioProjcets\c# selenium kurs\ClassLibrary\POM vezba\TestProject\TestProject\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\QA\VisualStudioProjcets\c# selenium kurs\ClassLibrary\POM vezba\TestProject\TestProject\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\QA\VisualStudioProjcets\c# selenium kurs\ClassLibrary\POM vezba\TestProject\TestProject\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\QA\VisualStudioProjcets\c# selenium kurs\ClassLibrary\POM vezba\TestProject\TestProject\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\QA\VisualStudioProjcets\c# selenium kurs\ClassLibrary\POM vezba\TestProject\TestProject\bin\Debug\net6.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\QA\VisualStudioProjcets\c# selenium kurs\ClassLibrary\POM vezba\TestProject\TestProject\bin\Debug\net6.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\QA\VisualStudioProjcets\c# selenium kurs\ClassLibrary\POM vezba\TestProject\TestProject\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\QA\VisualStudioProjcets\c# selenium kurs\ClassLibrary\POM vezba\TestProject\TestProject\bin\Debug\net6.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\QA\VisualStudioProjcets\c# selenium kurs\ClassLibrary\POM vezba\TestProject\TestProject\bin\Debug\net6.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\QA\VisualStudioProjcets\c# selenium kurs\ClassLibrary\POM vezba\TestProject\TestProject\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\QA\VisualStudioProjcets\c# selenium kurs\ClassLibrary\POM vezba\TestProject\TestProject\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\QA\VisualStudioProjcets\c# selenium kurs\ClassLibrary\POM vezba\TestProject\TestProject\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\QA\VisualStudioProjcets\c# selenium kurs\ClassLibrary\POM vezba\TestProject\TestProject\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\QA\VisualStudioProjcets\c# selenium kurs\ClassLibrary\POM vezba\TestProject\TestProject\bin\Debug\net6.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\QA\VisualStudioProjcets\c# selenium kurs\ClassLibrary\POM vezba\TestProject\TestProject\bin\Debug\net6.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\QA\VisualStudioProjcets\c# selenium kurs\ClassLibrary\POM vezba\TestProject\TestProject\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\QA\VisualStudioProjcets\c# selenium kurs\ClassLibrary\POM vezba\TestProject\TestProject\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\QA\VisualStudioProjcets\c# selenium kurs\ClassLibrary\POM vezba\TestProject\TestProject\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\QA\VisualStudioProjcets\c# selenium kurs\ClassLibrary\POM vezba\TestProject\TestProject\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\QA\VisualStudioProjcets\c# selenium kurs\ClassLibrary\POM vezba\TestProject\TestProject\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\QA\VisualStudioProjcets\c# selenium kurs\ClassLibrary\POM vezba\TestProject\TestProject\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\QA\VisualStudioProjcets\c# selenium kurs\ClassLibrary\POM vezba\TestProject\TestProject\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\QA\VisualStudioProjcets\c# selenium kurs\ClassLibrary\POM vezba\TestProject\TestProject\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\QA\VisualStudioProjcets\c# selenium kurs\ClassLibrary\POM vezba\TestProject\TestProject\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\QA\VisualStudioProjcets\c# selenium kurs\ClassLibrary\POM vezba\TestProject\TestProject\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\QA\VisualStudioProjcets\c# selenium kurs\ClassLibrary\POM vezba\TestProject\TestProject\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\QA\VisualStudioProjcets\c# selenium kurs\ClassLibrary\POM vezba\TestProject\TestProject\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\QA\VisualStudioProjcets\c# selenium kurs\ClassLibrary\POM vezba\TestProject\TestProject\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\QA\VisualStudioProjcets\c# selenium kurs\ClassLibrary\POM vezba\TestProject\TestProject\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\QA\VisualStudioProjcets\c# selenium kurs\ClassLibrary\POM vezba\TestProject\TestProject\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\QA\VisualStudioProjcets\c# selenium kurs\ClassLibrary\POM vezba\TestProject\TestProject\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\QA\VisualStudioProjcets\c# selenium kurs\ClassLibrary\POM vezba\TestProject\TestProject\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\QA\VisualStudioProjcets\c# selenium kurs\ClassLibrary\POM vezba\TestProject\TestProject\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\QA\VisualStudioProjcets\c# selenium kurs\ClassLibrary\POM vezba\TestProject\TestProject\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\QA\VisualStudioProjcets\c# selenium kurs\ClassLibrary\POM vezba\TestProject\TestProject\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\QA\VisualStudioProjcets\c# selenium kurs\ClassLibrary\POM vezba\TestProject\TestProject\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\QA\VisualStudioProjcets\c# selenium kurs\ClassLibrary\POM vezba\TestProject\TestProject\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\QA\VisualStudioProjcets\c# selenium kurs\ClassLibrary\POM vezba\TestProject\TestProject\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\QA\VisualStudioProjcets\c# selenium kurs\ClassLibrary\POM vezba\TestProject\TestProject\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\QA\VisualStudioProjcets\c# selenium kurs\ClassLibrary\POM vezba\TestProject\TestProject\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\QA\VisualStudioProjcets\c# selenium kurs\ClassLibrary\POM vezba\TestProject\TestProject\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\QA\VisualStudioProjcets\c# selenium kurs\ClassLibrary\POM vezba\TestProject\TestProject\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\QA\VisualStudioProjcets\c# selenium kurs\ClassLibrary\POM vezba\TestProject\TestProject\obj\Debug\net6.0\TestProject.csproj.AssemblyReference.cache
+D:\QA\VisualStudioProjcets\c# selenium kurs\ClassLibrary\POM vezba\TestProject\TestProject\obj\Debug\net6.0\TestProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\QA\VisualStudioProjcets\c# selenium kurs\ClassLibrary\POM vezba\TestProject\TestProject\obj\Debug\net6.0\TestProject.AssemblyInfoInputs.cache
+D:\QA\VisualStudioProjcets\c# selenium kurs\ClassLibrary\POM vezba\TestProject\TestProject\obj\Debug\net6.0\TestProject.AssemblyInfo.cs
+D:\QA\VisualStudioProjcets\c# selenium kurs\ClassLibrary\POM vezba\TestProject\TestProject\obj\Debug\net6.0\TestProject.csproj.CoreCompileInputs.cache
+D:\QA\VisualStudioProjcets\c# selenium kurs\ClassLibrary\POM vezba\TestProject\TestProject\obj\Debug\net6.0\TestProject.csproj.CopyComplete
+D:\QA\VisualStudioProjcets\c# selenium kurs\ClassLibrary\POM vezba\TestProject\TestProject\obj\Debug\net6.0\TestProject.dll
+D:\QA\VisualStudioProjcets\c# selenium kurs\ClassLibrary\POM vezba\TestProject\TestProject\obj\Debug\net6.0\refint\TestProject.dll
+D:\QA\VisualStudioProjcets\c# selenium kurs\ClassLibrary\POM vezba\TestProject\TestProject\obj\Debug\net6.0\TestProject.pdb
+D:\QA\VisualStudioProjcets\c# selenium kurs\ClassLibrary\POM vezba\TestProject\TestProject\obj\Debug\net6.0\TestProject.genruntimeconfig.cache
+D:\QA\VisualStudioProjcets\c# selenium kurs\ClassLibrary\POM vezba\TestProject\TestProject\obj\Debug\net6.0\ref\TestProject.dll
+D:\QA\VisualStudioProjcets\c# selenium kurs\ClassLibrary\POM vezba\TestProject\TestProject\bin\Debug\net6.0\CoverletSourceRootsMapping
+D:\QA\VisualStudioProjcets\c# selenium kurs\ClassLibrary\POM vezba\TestProject\TestProject\bin\Debug\net6.0\AutomationResources.dll
+D:\QA\VisualStudioProjcets\c# selenium kurs\ClassLibrary\POM vezba\TestProject\TestProject\bin\Debug\net6.0\AutomationResources.pdb
+D:\QA\reposOnGitHub\C#SeleniumTests\TestProject\TestProject\bin\Debug\net6.0\CoverletSourceRootsMapping
+D:\QA\reposOnGitHub\C#SeleniumTests\TestProject\TestProject\obj\Debug\net6.0\TestProject.csproj.AssemblyReference.cache
+D:\QA\reposOnGitHub\C#SeleniumTests\TestProject\TestProject\obj\Debug\net6.0\TestProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\QA\reposOnGitHub\C#SeleniumTests\TestProject\TestProject\obj\Debug\net6.0\TestProject.AssemblyInfoInputs.cache
+D:\QA\reposOnGitHub\C#SeleniumTests\TestProject\TestProject\obj\Debug\net6.0\TestProject.AssemblyInfo.cs
+D:\QA\reposOnGitHub\C#SeleniumTests\TestProject\TestProject\obj\Debug\net6.0\TestProject.csproj.CoreCompileInputs.cache
+D:\QA\reposOnGitHub\C#SeleniumTests\TestProject\TestProject\obj\Debug\net6.0\TestProject.dll
+D:\QA\reposOnGitHub\C#SeleniumTests\TestProject\TestProject\obj\Debug\net6.0\refint\TestProject.dll
+D:\QA\reposOnGitHub\C#SeleniumTests\TestProject\TestProject\obj\Debug\net6.0\TestProject.pdb
+D:\QA\reposOnGitHub\C#SeleniumTests\TestProject\TestProject\bin\Debug\net6.0\testhost.exe
+D:\QA\reposOnGitHub\C#SeleniumTests\TestProject\TestProject\bin\Debug\net6.0\testhost.dll
+D:\QA\reposOnGitHub\C#SeleniumTests\TestProject\TestProject\bin\Debug\net6.0\selenium-manager\linux\selenium-manager
+D:\QA\reposOnGitHub\C#SeleniumTests\TestProject\TestProject\bin\Debug\net6.0\selenium-manager\macos\selenium-manager
+D:\QA\reposOnGitHub\C#SeleniumTests\TestProject\TestProject\bin\Debug\net6.0\selenium-manager\windows\selenium-manager.exe
+D:\QA\reposOnGitHub\C#SeleniumTests\TestProject\TestProject\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\QA\reposOnGitHub\C#SeleniumTests\TestProject\TestProject\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\QA\reposOnGitHub\C#SeleniumTests\TestProject\TestProject\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\QA\reposOnGitHub\C#SeleniumTests\TestProject\TestProject\bin\Debug\net6.0\Microsoft.TestPlatform.AdapterUtilities.dll
+D:\QA\reposOnGitHub\C#SeleniumTests\TestProject\TestProject\bin\Debug\net6.0\TestProject.deps.json
+D:\QA\reposOnGitHub\C#SeleniumTests\TestProject\TestProject\bin\Debug\net6.0\TestProject.runtimeconfig.json
+D:\QA\reposOnGitHub\C#SeleniumTests\TestProject\TestProject\bin\Debug\net6.0\TestProject.dll
+D:\QA\reposOnGitHub\C#SeleniumTests\TestProject\TestProject\bin\Debug\net6.0\TestProject.pdb
+D:\QA\reposOnGitHub\C#SeleniumTests\TestProject\TestProject\bin\Debug\net6.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+D:\QA\reposOnGitHub\C#SeleniumTests\TestProject\TestProject\bin\Debug\net6.0\Microsoft.TestPlatform.CoreUtilities.dll
+D:\QA\reposOnGitHub\C#SeleniumTests\TestProject\TestProject\bin\Debug\net6.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+D:\QA\reposOnGitHub\C#SeleniumTests\TestProject\TestProject\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+D:\QA\reposOnGitHub\C#SeleniumTests\TestProject\TestProject\bin\Debug\net6.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+D:\QA\reposOnGitHub\C#SeleniumTests\TestProject\TestProject\bin\Debug\net6.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+D:\QA\reposOnGitHub\C#SeleniumTests\TestProject\TestProject\bin\Debug\net6.0\Microsoft.TestPlatform.Utilities.dll
+D:\QA\reposOnGitHub\C#SeleniumTests\TestProject\TestProject\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+D:\QA\reposOnGitHub\C#SeleniumTests\TestProject\TestProject\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\QA\reposOnGitHub\C#SeleniumTests\TestProject\TestProject\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\QA\reposOnGitHub\C#SeleniumTests\TestProject\TestProject\bin\Debug\net6.0\NuGet.Frameworks.dll
+D:\QA\reposOnGitHub\C#SeleniumTests\TestProject\TestProject\bin\Debug\net6.0\WebDriver.Support.dll
+D:\QA\reposOnGitHub\C#SeleniumTests\TestProject\TestProject\bin\Debug\net6.0\WebDriver.dll
+D:\QA\reposOnGitHub\C#SeleniumTests\TestProject\TestProject\bin\Debug\net6.0\SeleniumExtras.WaitHelpers.dll
+D:\QA\reposOnGitHub\C#SeleniumTests\TestProject\TestProject\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\QA\reposOnGitHub\C#SeleniumTests\TestProject\TestProject\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\QA\reposOnGitHub\C#SeleniumTests\TestProject\TestProject\bin\Debug\net6.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\QA\reposOnGitHub\C#SeleniumTests\TestProject\TestProject\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\QA\reposOnGitHub\C#SeleniumTests\TestProject\TestProject\bin\Debug\net6.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\QA\reposOnGitHub\C#SeleniumTests\TestProject\TestProject\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\QA\reposOnGitHub\C#SeleniumTests\TestProject\TestProject\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\QA\reposOnGitHub\C#SeleniumTests\TestProject\TestProject\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\QA\reposOnGitHub\C#SeleniumTests\TestProject\TestProject\bin\Debug\net6.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\QA\reposOnGitHub\C#SeleniumTests\TestProject\TestProject\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\QA\reposOnGitHub\C#SeleniumTests\TestProject\TestProject\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\QA\reposOnGitHub\C#SeleniumTests\TestProject\TestProject\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\QA\reposOnGitHub\C#SeleniumTests\TestProject\TestProject\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\QA\reposOnGitHub\C#SeleniumTests\TestProject\TestProject\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\QA\reposOnGitHub\C#SeleniumTests\TestProject\TestProject\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\QA\reposOnGitHub\C#SeleniumTests\TestProject\TestProject\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\QA\reposOnGitHub\C#SeleniumTests\TestProject\TestProject\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\QA\reposOnGitHub\C#SeleniumTests\TestProject\TestProject\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\QA\reposOnGitHub\C#SeleniumTests\TestProject\TestProject\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\QA\reposOnGitHub\C#SeleniumTests\TestProject\TestProject\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\QA\reposOnGitHub\C#SeleniumTests\TestProject\TestProject\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\QA\reposOnGitHub\C#SeleniumTests\TestProject\TestProject\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\QA\reposOnGitHub\C#SeleniumTests\TestProject\TestProject\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\QA\reposOnGitHub\C#SeleniumTests\TestProject\TestProject\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\QA\reposOnGitHub\C#SeleniumTests\TestProject\TestProject\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\QA\reposOnGitHub\C#SeleniumTests\TestProject\TestProject\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\QA\reposOnGitHub\C#SeleniumTests\TestProject\TestProject\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\QA\reposOnGitHub\C#SeleniumTests\TestProject\TestProject\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\QA\reposOnGitHub\C#SeleniumTests\TestProject\TestProject\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\QA\reposOnGitHub\C#SeleniumTests\TestProject\TestProject\bin\Debug\net6.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\QA\reposOnGitHub\C#SeleniumTests\TestProject\TestProject\bin\Debug\net6.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\QA\reposOnGitHub\C#SeleniumTests\TestProject\TestProject\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\QA\reposOnGitHub\C#SeleniumTests\TestProject\TestProject\bin\Debug\net6.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\QA\reposOnGitHub\C#SeleniumTests\TestProject\TestProject\bin\Debug\net6.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\QA\reposOnGitHub\C#SeleniumTests\TestProject\TestProject\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\QA\reposOnGitHub\C#SeleniumTests\TestProject\TestProject\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\QA\reposOnGitHub\C#SeleniumTests\TestProject\TestProject\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\QA\reposOnGitHub\C#SeleniumTests\TestProject\TestProject\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\QA\reposOnGitHub\C#SeleniumTests\TestProject\TestProject\bin\Debug\net6.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\QA\reposOnGitHub\C#SeleniumTests\TestProject\TestProject\bin\Debug\net6.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\QA\reposOnGitHub\C#SeleniumTests\TestProject\TestProject\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\QA\reposOnGitHub\C#SeleniumTests\TestProject\TestProject\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\QA\reposOnGitHub\C#SeleniumTests\TestProject\TestProject\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\QA\reposOnGitHub\C#SeleniumTests\TestProject\TestProject\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\QA\reposOnGitHub\C#SeleniumTests\TestProject\TestProject\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\QA\reposOnGitHub\C#SeleniumTests\TestProject\TestProject\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\QA\reposOnGitHub\C#SeleniumTests\TestProject\TestProject\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\QA\reposOnGitHub\C#SeleniumTests\TestProject\TestProject\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\QA\reposOnGitHub\C#SeleniumTests\TestProject\TestProject\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\QA\reposOnGitHub\C#SeleniumTests\TestProject\TestProject\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\QA\reposOnGitHub\C#SeleniumTests\TestProject\TestProject\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\QA\reposOnGitHub\C#SeleniumTests\TestProject\TestProject\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\QA\reposOnGitHub\C#SeleniumTests\TestProject\TestProject\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\QA\reposOnGitHub\C#SeleniumTests\TestProject\TestProject\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\QA\reposOnGitHub\C#SeleniumTests\TestProject\TestProject\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\QA\reposOnGitHub\C#SeleniumTests\TestProject\TestProject\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\QA\reposOnGitHub\C#SeleniumTests\TestProject\TestProject\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\QA\reposOnGitHub\C#SeleniumTests\TestProject\TestProject\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\QA\reposOnGitHub\C#SeleniumTests\TestProject\TestProject\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\QA\reposOnGitHub\C#SeleniumTests\TestProject\TestProject\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\QA\reposOnGitHub\C#SeleniumTests\TestProject\TestProject\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\QA\reposOnGitHub\C#SeleniumTests\TestProject\TestProject\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\QA\reposOnGitHub\C#SeleniumTests\TestProject\TestProject\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\QA\reposOnGitHub\C#SeleniumTests\TestProject\TestProject\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\QA\reposOnGitHub\C#SeleniumTests\TestProject\TestProject\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\QA\reposOnGitHub\C#SeleniumTests\TestProject\TestProject\bin\Debug\net6.0\AutomationResources.dll
+D:\QA\reposOnGitHub\C#SeleniumTests\TestProject\TestProject\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\QA\reposOnGitHub\C#SeleniumTests\TestProject\TestProject\bin\Debug\net6.0\AutomationResources.pdb
+D:\QA\reposOnGitHub\C#SeleniumTests\TestProject\TestProject\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\QA\reposOnGitHub\C#SeleniumTests\TestProject\TestProject\obj\Debug\net6.0\TestProject.csproj.CopyComplete
+D:\QA\reposOnGitHub\C#SeleniumTests\TestProject\TestProject\obj\Debug\net6.0\TestProject.genruntimeconfig.cache
+D:\QA\reposOnGitHub\C#SeleniumTests\TestProject\TestProject\obj\Debug\net6.0\ref\TestProject.dll
